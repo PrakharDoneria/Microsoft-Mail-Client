@@ -1,0 +1,3 @@
+Flask
+quick-mailer
+python-dotenv
